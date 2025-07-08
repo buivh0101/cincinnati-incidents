@@ -1,6 +1,7 @@
 ## # Cincinnati Incident Data Analysis
 
-[Cincinnati Incident Analysis - HTML Report](./Cincinnati_incident%20(3).html)
+[Cincinnati Incident Analysis - HTML Report](https://buivh0101.github.io/cincinnati-incidents/Cincinnati_incident.html)
+
 
 ## Overview
 
